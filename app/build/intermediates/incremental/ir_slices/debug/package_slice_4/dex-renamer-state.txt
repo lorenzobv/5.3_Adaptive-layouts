@@ -1,0 +1,4 @@
+#Sun Mar 03 20:24:50 CET 2019
+base.0=C\:\\Users\\loren\\Desktop\\Nueva carpeta\\MaterialMe\\android-fundamentals-starter-apps-v2-master\\MaterialMe-Starter\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\4
+path.0=classes.dex
+renamed.0=classes.dex
